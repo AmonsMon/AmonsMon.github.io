@@ -17,7 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+Xiaokang Liu, associate professor and master's supervisor of the School of Artificial Intelligence and Automation of Huazhong University of Science and Technology, received his Ph.D. in control science and engineering in 2019, and is engaged in theoretical and applied research on collaborative control, including hybrid cooperative control of multi-agent systems, cooperative control and optimization of microgrid systems, etc. He has published more than 30 Automatica and IEEE Transactions, authorized 10 national invention patents, and has been selected as 4 ESI highly cited papers. He has presided over the general projects and youth projects of the National Natural Science Foundation of China, the youth projects of the Natural Science Foundation of Hubei Province, and the professional education and teaching reform research projects of the Steering Committee for the Teaching of Automation Majors in Colleges and Universities of the Ministry of Education.
+
+* Research issues of personal interest: 
+1. Braess's Paradox phenomenon: Will Braess's Paradox phenomenon occur when the power system is networked? 
+2. Coupled power flow optimization: How to solve the optimization problem with PDE constraints of gas network? 
+3. DC power flow control: Under what conditions can positive stability still be guaranteed after rank-one disturbance of the positive stability matrix? 
+Welcome like-minded students to join the exchange!
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
