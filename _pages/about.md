@@ -23,8 +23,9 @@ Xiaokang Liu, associate professor and master's supervisor of the School of Artif
 * Research issues of personal interest: 
 1. Braess's Paradox phenomenon: Will Braess's Paradox phenomenon occur when the power system is networked? 
 2. Coupled power flow optimization: How to solve the optimization problem with PDE constraints of gas network? 
-3. DC power flow control: Under what conditions can positive stability still be guaranteed after rank-one disturbance of the positive stability matrix? 
-Welcome like-minded students to join the exchange!
+3. DC power flow control: Under what conditions can positive stability still be guaranteed after rank-one disturbance of the positive stability matrix?
+
+Like-minded students are welcome!
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -54,8 +55,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014.06 - 2019.06*, PHD, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology. 
+- *2010.09 - 2014.06*, Bachelor's degree, School of Automation, Huazhong University of Science and Technology. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
