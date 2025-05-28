@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiao-Kang Liu"
   avatar           : "images/lxk ava.png"
-  bio              : "Lorem ipsum College Huazhong University of Science and Technology"
+  bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4TKvXE8AAAAJ"
   email            : "xiaokangliu@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Xiao-Kang-Liu"
-  uri              :
+  uri              : "https://faculty.hust.edu.cn/LiuXiaokang/zh_CN/index.htm"
   bitbucket        :
   codepen          :
   dribbble         :
