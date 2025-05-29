@@ -17,50 +17,110 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👨‍🏫 About Me | 关于我
 
-Xiaokang Liu, associate professor and master's supervisor of the School of Artificial Intelligence and Automation of Huazhong University of Science and Technology, received his Ph.D. in control science and engineering in 2019, and is engaged in theoretical and applied research on collaborative control, including hybrid cooperative control of multi-agent systems, cooperative control and optimization of microgrid systems, etc. He has published more than 30 Automatica and IEEE Transactions, authorized 10 national invention patents, and has been selected as 4 ESI highly cited papers. He has presided over the general projects and youth projects of the National Natural Science Foundation of China, the youth projects of the Natural Science Foundation of Hubei Province, and the professional education and teaching reform research projects of the Steering Committee for the Teaching of Automation Majors in Colleges and Universities of the Ministry of Education.
+**Xiaokang Liu** is an Associate Professor and Master's supervisor at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST). He received his Ph.D. in Control Science and Engineering from HUST in 2019. His research focuses on collaborative control theory and applications, including hybrid cooperative control of multi-agent systems and cooperative control and optimization of microgrid systems.
 
-* Research issues of personal interest: 
-1. Braess's Paradox phenomenon: Will Braess's Paradox phenomenon occur when the power system is networked? 
-2. Coupled power flow optimization: How to solve the optimization problem with PDE constraints of gas network? 
-3. DC power flow control: Under what conditions can positive stability still be guaranteed after rank-one disturbance of the positive stability matrix?
+He has published over 30 papers in *Automatica* and IEEE Transactions journals, authorized 10 national invention patents, and has four papers selected as ESI Highly Cited Papers. He has led research projects funded by the National Natural Science Foundation of China (General and Youth Projects), the Natural Science Foundation of Hubei Province, and educational reform programs of the Ministry of Education. He was selected into the Wuhan Young Talent Program and the China Association for Science and Technology Youth Talent Support Project.
 
-Like-minded students are welcome!
+**刘骁康**，华中科技大学人工智能与自动化学院副教授、硕士生导师，2019年在华中科技大学获得控制科学与工程专业博士学位。长期从事协同控制的理论与应用研究，包括多智能体系统的混杂协同控制、微电网系统的协同控制与优化等。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+在 *Automatica* 和 IEEE 汇刊上发表论文30余篇，授权国家发明专利10项，入选ESI高被引论文4篇。主持国家自然科学基金面上项目和青年项目、湖北省自然科学基金青年项目、教育部高等学校自动化类专业教育教学改革研究课题。入选武汉英才计划、中国科协青年人才托举工程。
 
+---
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href='https://scholar.google.com/citations?user=4TKvXE8AAAAJ'>Google Scholar Citations <strong><span id='total_cit'>[loading]</span></strong></a>  
+<a href='https://scholar.google.com/citations?user=4TKvXE8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 📝 Publications 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🎓 Education | 教育背景
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **2014.09 – 2019.06**  
+  Ph.D. in Control Science and Engineering, HUST  
+  博士，控制科学与工程，华中科技大学
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **2010.09 – 2014.06**  
+  B.Eng. in Automation, HUST  
+  学士，自动化，华中科技大学
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+---
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💼 Academic Positions | 工作经历
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2024.02 – Present / 至今**  
+  Associate Professor, School of Artificial Intelligence and Automation, HUST  
+  副教授，人工智能与自动化学院，华中科技大学
 
-# 📖 Educations
-- *2014.06 - 2019.06*, PHD, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology. 
-- *2010.09 - 2014.06*, Bachelor's degree, School of Automation, Huazhong University of Science and Technology. 
+- **2021.03 – 2024.01**  
+  Lecturer, HUST  
+  讲师，华中科技大学
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **2019.10 – 2021.02**  
+  Research Fellow, School of EEE, Nanyang Technological University, Singapore  
+  研究员，新加坡南洋理工大学电气与电子工程系
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **2019.06 – 2019.09**  
+  Visiting Scholar, Academy of Mathematics and Systems Science, CAS  
+  访问学者，中科院数学与系统科学研究所
+
+- **2018.11 – 2019.02**  
+  Visiting Scholar, ERI@N, NTU  
+  访问学者，新加坡南洋理工大学能源研究院
+
+- **2017.07 – 2018.08**  
+  Visiting Scholar, University of Rhode Island, USA  
+  访问学者，美国罗德岛大学
+
+---
+
+# 📚 Courses | 教学授课
+
+**Undergraduate / 本科生课程**:
+- Principles of Automatic Control (I) 自动控制原理（一）  
+- Intelligent Chip Design 智能芯片设计  
+- Autonomous Intelligent Systems 自主智能系统  
+
+**Postgraduate / 研究生课程**:
+- Adaptive and Learning Systems 自适应与学习系统  
+- Academic Writing and Research Ethics 学术规范与论文写作
+
+---
+
+# 🔬 Research Interests | 研究方向
+
+- Distributed coordination and swarm intelligence  
+  分布式协同与群集智能
+
+- Control and optimization of smart grids  
+  智能电网的控制与优化
+
+---
+
+# 🎯 Topics of Interest | 感兴趣的问题
+
+1. **Braess's Paradox in Power Systems**  
+   电力系统组网运行是否会出现 Braess's Paradox 现象？
+
+2. **Coupled Power Flow Optimization with PDE Constraints**  
+   带气网偏微分方程约束的潮流优化问题如何求解？
+
+3. **DC Power Flow and Positive Stability**  
+   正稳定矩阵在秩一扰动后如何仍保证正稳定性？
+
+---
+
+# 👥 Recruitment | 团队招生
+
+In response to China’s “Dual Carbon” strategy, our group focuses on big data analysis, cooperative control, optimized operation, and resilient recovery in new-type power systems. We welcome master's and Ph.D. students to join us!
+
+响应国家“双碳”战略需求，团队围绕新型电力系统的大数据分析、协同控制、优化运行、韧性恢复等内容开展研究。每年招收硕士研究生、博士研究生若干名，欢迎感兴趣的同学随时联系！
+
+---
+
+# 📬 Contact | 联系方式
+
+- **Email / 邮箱**: xiaokangliu@hust.edu.cn  
+- **Office / 办公室**: School of Artificial Intelligence and Automation, HUST  
+  华中科技大学人工智能与自动化学院
+
