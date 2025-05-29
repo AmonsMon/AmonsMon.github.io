@@ -1,22 +1,23 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
+<span class='anchor' id='about-me'></span>
+# 👨‍🏫 About Me | 关于我
 
-  - title: "News"
-    url: "/#-news"
+<span class='anchor' id='education'></span>
+# 🎓 Education | 教育背景
 
-  - title: "Publications"
-    url: "/#-publications"
+<span class='anchor' id='positions'></span>
+# 💼 Academic Positions | 工作经历
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+<span class='anchor' id='courses'></span>
+# 📚 Courses | 教学授课
 
-  - title: "Educations"
-    url: "/#-educations"
+<span class='anchor' id='research'></span>
+# 🔬 Research Interests | 研究方向
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+<span class='anchor' id='interests'></span>
+# 🎯 Topics of Interest | 感兴趣的问题
 
-  - title: "Internships"
-    url: "/#-internships"
+<span class='anchor' id='recruitment'></span>
+# 👥 Recruitment | 团队招生
+
+<span class='anchor' id='contact'></span>
+# 📬 Contact | 联系方式
