@@ -34,6 +34,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='education'></span>
 # 🎓 Education | 教育背景
 
 - **2014.09 – 2019.06**  
@@ -46,6 +47,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='positions'></span>
 # 💼 Academic Positions | 工作经历
 
 - **2024.02 – Present / 至今**  
@@ -74,6 +76,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='courses'></span>
 # 📚 Courses | 教学授课
 
 **Undergraduate / 本科生课程**:
@@ -87,6 +90,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='research'></span>
 # 🔬 Research Interests | 研究方向
 
 - Distributed coordination and swarm intelligence  
@@ -97,6 +101,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='interests'></span>
 # 🎯 Topics of Interest | 感兴趣的问题
 
 1. **Braess's Paradox in Power Systems**  
@@ -110,6 +115,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
+<span class='anchor' id='recruitment'></span>
 # 👥 Recruitment | 团队招生
 
 In response to China’s “Dual Carbon” strategy, our group focuses on big data analysis, cooperative control, optimized operation, and resilient recovery in new-type power systems. We welcome master's and Ph.D. students to join us!
@@ -118,6 +124,7 @@ In response to China’s “Dual Carbon” strategy, our group focuses on big da
 
 ---
 
+<span class='anchor' id='contact'></span>
 # 📬 Contact | 联系方式
 
 - **Email / 邮箱**: xiaokangliu@hust.edu.cn  
