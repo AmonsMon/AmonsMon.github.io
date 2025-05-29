@@ -1,23 +1,21 @@
-<span class='anchor' id='about-me'></span>
-# 👨‍🏫 About Me | 关于我
-
-<span class='anchor' id='education'></span>
-# 🎓 Education | 教育背景
-
-<span class='anchor' id='positions'></span>
-# 💼 Academic Positions | 工作经历
-
-<span class='anchor' id='courses'></span>
-# 📚 Courses | 教学授课
-
-<span class='anchor' id='research'></span>
-# 🔬 Research Interests | 研究方向
-
-<span class='anchor' id='interests'></span>
-# 🎯 Topics of Interest | 感兴趣的问题
-
-<span class='anchor' id='recruitment'></span>
-# 👥 Recruitment | 团队招生
-
-<span class='anchor' id='contact'></span>
-# 📬 Contact | 联系方式
+main:
+  - title: "About Me | 关于我"
+    url: "/#about-me"
+  - title: "Education | 教育背景"
+    url: "/#education"
+  - title: "Academic Positions | 工作经历"
+    url: "/#positions"
+  - title: "Courses | 教学授课"
+    url: "/#courses"
+  - title: "Research Interests | 研究方向"
+    url: "/#research"
+  - title: "Topics of Interest | 感兴趣的问题"
+    url: "/#interests"
+  - title: "Recruitment | 团队招生"
+    url: "/#recruitment"
+  - title: "Publications | 论文列表"
+    url: "/publications/"   # 假如你的论文列表页面位于 /publications/ 目录下
+  - title: "News | 最新动态"
+    url: "/news/"           # 假如你的新闻页面位于 /news/ 目录下
+  - title: "Contact | 联系方式"
+    url: "/#contact"
