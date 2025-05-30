@@ -11,11 +11,9 @@ main:
     url: "/#research"
   - title: "Topics of Interest"
     url: "/#interests"
-  - title: "Recruitment"
-    url: "/#recruitment"
   - title: "Publications"
     url: "/#publications/"   # 假如你的论文列表页面位于 /publications/ 目录下
-  - title: "News"
-    url: "/news/"           # 假如你的新闻页面位于 /news/ 目录下
+  - title: "Recruitment"
+    url: "/#recruitment"
   - title: "Contact"
     url: "/#contact"
