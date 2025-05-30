@@ -98,13 +98,6 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 ---
 
-<span class='anchor' id='recruitment'></span>
-# 👥 Recruitment
-
-In response to China’s “Dual Carbon” strategy, our group focuses on big data analysis, cooperative control, optimized operation, and resilient recovery in new-type power systems. We welcome master's and Ph.D. students to join us!
-
----
-
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
@@ -140,7 +133,7 @@ In response to China’s “Dual Carbon” strategy, our group focuses on big da
 
 16. Wu Yang, Xing Zhang, Yan-Wu Wang, **Xiao-Kang Liu***, "Predefined-Time Observer-Based Fast Power Allocation for Battery Energy Storage Systems", IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS, 2024, 71(10): 4506-4510. [10.1109/TCSII.2024.3398823](https://doi.org/10.1109/TCSII.2024.3398823)
 
-17. Yu Zhang, Ke-Xin Ma, Ming-Yu Zhu, **Xiao-Kang Liu***, "Optimal Voltage Scheduling under Safety Constraints for Multi-bus DC Microgrid", 2024 14TH ASIAN CONTROL CONFERENCE, ASCC 2024, 2024: 1569-1573. [会议论文无DOI]
+17. Yu Zhang, Ke-Xin Ma, Ming-Yu Zhu, **Xiao-Kang Liu***, "Optimal Voltage Scheduling under Safety Constraints for Multi-bus DC Microgrid", 2024 14TH ASIAN CONTROL CONFERENCE, ASCC 2024, 2024: 1569-1573. [会议论文暂无DOI]
 
 18. **Xiao-Kang Liu**, Yan-Wu Wang, Zhi-Wei Liu, Yuehua Huang*, "On the stability of distributed secondary control for DC microgrids with grid-forming and grid-feeding converters", AUTOMATICA, 2023, 155: 111164. [10.1016/j.automatica.2023.111164](https://doi.org/10.1016/j.automatica.2023.111164)
 
@@ -238,9 +231,9 @@ In response to China’s “Dual Carbon” strategy, our group focuses on big da
 
 65. **Xiao-Kang Liu**, Haibo He, Yan-Wu Wang, Qianwen Xu, Fanghong Guo*, "Distributed Hybrid Secondary Control for a DC Microgrid via Discrete-Time Interaction", IEEE TRANSACTIONS ON ENERGY CONVERSION, 2018, 33(4): 1865-1875. [10.1109/TEC.2018.2850279](https://doi.org/10.1109/TEC.2018.2850279)
 
-66. He Jiang, **Xiao-Kang Liu**, Haibo He, Chengzhi Yuan, Danil Prokhorov*, "Neural Network Based Distributed Consensus Control for Heterogeneous Multi-agent Systems", 2018 ANNUAL AMERICAN CONTROL CONFERENCE (ACC), 2018: 5175-5180. [会议论文无DOI链接]
+66. He Jiang, **Xiao-Kang Liu**, Haibo He, Chengzhi Yuan, Danil Prokhorov*, "Neural Network Based Distributed Consensus Control for Heterogeneous Multi-agent Systems", 2018 ANNUAL AMERICAN CONTROL CONFERENCE (ACC), 2018: 5175-5180. [10.23919/ACC.2018.8431744](https://doi.org/10.23919/ACC.2018.8431744)
 
-67. **Xiao-Kang Liu**, Haibo He, Yan-Wu Wang*, "Optimal Power Sharing Control for DC Microgrids via Adaptive Dynamic Programming", 2018 IEEE POWER & ENERGY SOCIETY GENERAL MEETING (PESGM), 2018. [会议论文无DOI链接]
+67. **Xiao-Kang Liu**, Haibo He, Yan-Wu Wang*, "Optimal Power Sharing Control for DC Microgrids via Adaptive Dynamic Programming", 2018 IEEE POWER & ENERGY SOCIETY GENERAL MEETING (PESGM), 2018. [10.1109/PESGM.2018.8586311](10.1109/PESGM.2018.8586311)
 
 68. Yan-Wu Wang, **Xiao-Kang Liu**, Jiang-Wen Xiao, Xiangning Lin*, "Output formation-containment of coupled heterogeneous linear systems under intermittent communication", JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS, 2017, 354(1): 392-414. [10.1016/j.jfranklin.2016.10.011](https://doi.org/10.1016/j.jfranklin.2016.10.011)
 
@@ -250,12 +243,19 @@ In response to China’s “Dual Carbon” strategy, our group focuses on big da
 
 71. **Xiao-Kang Liu**, Yan-Wu Wang, Huaicheng Yan, Xiaoping Wang, Xiaoya Hu*, "Hybrid Consensus-based Algorithm for Distributed Economic Dispatch Problem", IFAC PAPERSONLINE, 2017, 50(1): 177-182. [10.1016/j.ifacol.2017.08.030](https://doi.org/10.1016/j.ifacol.2017.08.030)
 
-72. Yan Lei, Yan-Wu Wang, Hua Chen, **Xiao-Kang Liu***, "Distributed Control of Heterogeneous Linear Multi-Agent Systems by Intermittent Event-Triggered Control", 2017 32ND YOUTH ACADEMIC ANNUAL CONFERENCE OF CHINESE ASSOCIATION OF AUTOMATION (YAC), 2017: 34-39. [会议论文无DOI链接]
+72. Yan Lei, Yan-Wu Wang, Hua Chen, **Xiao-Kang Liu***, "Distributed Control of Heterogeneous Linear Multi-Agent Systems by Intermittent Event-Triggered Control", 2017 32ND YOUTH ACADEMIC ANNUAL CONFERENCE OF CHINESE ASSOCIATION OF AUTOMATION (YAC), 2017: 34-39. [10.1109/YAC.2017.7967374](https://doi.org/10.1109/YAC.2017.7967374)
 
-73. Tran Ngoc-Tu, Liu Xiao-Kang, Wang Yan-Wu*, "Distributed optimization problem for second-order multi-agent networks with only position interaction", PROCEEDINGS OF THE 35TH CHINESE CONTROL CONFERENCE 2016, 2016: 2746-2750. [会议论文无DOI链接]
+73. Tran Ngoc-Tu, Liu Xiao-Kang, Wang Yan-Wu*, "Distributed optimization problem for second-order multi-agent networks with only position interaction", PROCEEDINGS OF THE 35TH CHINESE CONTROL CONFERENCE 2016, 2016: 2746-2750. [10.1109/ChiCC.2016.7553779](https://doi.org/10.1109/ChiCC.2016.7553779)
 
-74. Meng Liu, Yan-Wu Wang, Jiang-Wen Xiao, **Xiao-Kang Liu***, "Formation tracking control for multi-agent systems with nonlinear dynamics via impulsive control", 26TH CHINESE CONTROL AND DECISION CONFERENCE (2014 CCDC), 2014: 3669-3674. [会议论文无DOI链接]
+74. Meng Liu, Yan-Wu Wang, Jiang-Wen Xiao, **Xiao-Kang Liu***, "Formation tracking control for multi-agent systems with nonlinear dynamics via impulsive control", 26TH CHINESE CONTROL AND DECISION CONFERENCE (2014 CCDC), 2014: 3669-3674. [10.1109/CCDC.2014.6852817](https://doi.org/10.1109/CCDC.2014.6852817)
 
+
+---
+
+<span class='anchor' id='recruitment'></span>
+# 👥 Recruitment
+
+In response to China’s “Dual Carbon” strategy, our group focuses on big data analysis, cooperative control, optimized operation, and resilient recovery in new-type power systems. We welcome master's and Ph.D. students to join us!
 
 ---
 
