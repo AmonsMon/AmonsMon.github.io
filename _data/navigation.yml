@@ -14,7 +14,7 @@ main:
   - title: "Recruitment"
     url: "/#recruitment"
   - title: "Publications"
-    url: "/publications/"   # 假如你的论文列表页面位于 /publications/ 目录下
+    url: "/#publications/"   # 假如你的论文列表页面位于 /publications/ 目录下
   - title: "News"
     url: "/news/"           # 假如你的新闻页面位于 /news/ 目录下
   - title: "Contact"
