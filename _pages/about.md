@@ -131,3 +131,7 @@ In response to China’s “Dual Carbon” strategy, our group focuses on big da
 - **Office / 办公室**: School of Artificial Intelligence and Automation, HUST  
   华中科技大学人工智能与自动化学院
 
+<span class='anchor' id='publications'></span>
+# 📝 Publications | 发表文章
+
+
