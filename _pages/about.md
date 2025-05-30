@@ -143,13 +143,13 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 21. Yu Zhang, Yan-Wu Wang*, **Xiao-Kang Liu**, Wu Yang, Shu-Ming Liang, "Distributed Predefined-Time Control for Hybrid AC/DC Microgrid", IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, 2023, 70(8): 8324-8333. [10.1109/TIE.2022.3225807](https://doi.org/10.1109/TIE.2022.3225807)
 
-22. Tian-Tian Yu, Yan-Wu Wang*, Yan Lei, **Xiao-Kang Liu**, Zhi-Wei Liu*, "Event-triggered and self-triggered impulsive control for two-time-scale systems", NONLINEAR ANALYSIS-HYBRID SYSTEMS, 2023, 48: 101309. [10.1016/j.nahs.2022.101309](https://doi.org/10.1016/j.nahs.2022.101309)
+22. Tian-Tian Yu, Yan-Wu Wang*, Yan Lei, **Xiao-Kang Liu**, Zhi-Wei Liu, "Event-triggered and self-triggered impulsive control for two-time-scale systems", NONLINEAR ANALYSIS-HYBRID SYSTEMS, 2023, 48: 101309. [10.1016/j.nahs.2022.101309](https://doi.org/10.1016/j.nahs.2022.101309)
 
 23. **Xiao-Kang Liu**, Jiong Cai, Lantao Xing, Yan-Wu Wang*, "Distributed Event-Triggered Current Sharing Control for Islanded DC Microgrids With Quantized State", IEEE TRANSACTIONS ON SUSTAINABLE ENERGY, 2023, 14(4): 2147-2156. [10.1109/TSTE.2023.3260868](https://doi.org/10.1109/TSTE.2023.3260868)
 
 24. Yan Lei, Yan-Wu Wang*, **Xiao-Kang Liu**, Wu Yang, "Prescribed-Time Stabilization of Singularly Perturbed Systems", IEEE-CAA JOURNAL OF AUTOMATICA SINICA, 2023, 10(2): 569-571. [10.1109/JAS.2023.123246](https://doi.org/10.1109/JAS.2023.123246)
 
-25. Tong Hua, Jiang-Wen Xiao, **Xiao-Kang Liu***, Yan Lei*, Yan-Wu Wang, "Event-triggered sub-optimal control for two-time-scale systems with unknown dynamics", NONLINEAR DYNAMICS, 2023, 111(3): 2487-2500. [10.1007/s11071-022-07970-x](https://doi.org/10.1007/s11071-022-07970-x)
+25. Tong Hua, Jiang-Wen Xiao, **Xiao-Kang Liu**\*, Yan Lei\*, Yan-Wu Wang, "Event-triggered sub-optimal control for two-time-scale systems with unknown dynamics", NONLINEAR DYNAMICS, 2023, 111(3): 2487-2500. [10.1007/s11071-022-07970-x](https://doi.org/10.1007/s11071-022-07970-x)
 
 26. Yan Lei, Yan-Wu Wang*, **Xiao-Kang Liu**, Wu Yang, "Zeno-free event-triggered fixed-time control of two-time-scale systems by Chang transformation and backstepping design", NONLINEAR DYNAMICS, 2023, 111(7): 6379-6393. [10.1007/s11071-022-08147-2](https://doi.org/10.1007/s11071-022-08147-2)
 
