@@ -123,7 +123,7 @@ He has published over 30 papers in *Automatica* and IEEE Transactions journals, 
 
 11. Fan-Rong Qu, Zhi-Wei Liu*, **Xiao-Kang Liu**, Yan-Wu Wang, En-Gang Tian, "Memory-Based Event-Triggered Control for Distributed Secondary Control in DC Microgrids With Quantized Communication", IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, 2024, 71(11): 14864-14874. [10.1109/TIE.2024.3376793](https://doi.org/10.1109/TIE.2024.3376793)
 
-12. Meng-Jie Hu, Ju Hyun Park, Yan-Wu Wang*, Jun Cheng*, **Xiao-Kang Liu**, "DMET-Based Double Asynchronous Dissipative Control of Fuzzy Semi-Markov Jump Systems With Redundant Channels", IEEE TRANSACTIONS ON FUZZY SYSTEMS, 2024, 32(9): 5149-5162. [10.1109/TFUZZ.2024.3416423](https://doi.org/10.1109/TFUZZ.2024.3416423)
+12. Meng-Jie Hu, Ju Hyun Park, Yan-Wu Wang\*, Jun Cheng\*, **Xiao-Kang Liu**, "DMET-Based Double Asynchronous Dissipative Control of Fuzzy Semi-Markov Jump Systems With Redundant Channels", IEEE TRANSACTIONS ON FUZZY SYSTEMS, 2024, 32(9): 5149-5162. [10.1109/TFUZZ.2024.3416423](https://doi.org/10.1109/TFUZZ.2024.3416423)
 
 13. Yu Zhang, Yan-Wu Wang, Jiang-Wen Xiao, **Xiao-Kang Liu***, "Distributed predefined-time optimal economic dispatch for microgrids", AUTOMATICA, 2024, 169: 111870. [10.1016/j.automatica.2024.111870](https://doi.org/10.1016/j.automatica.2024.111870)
 
